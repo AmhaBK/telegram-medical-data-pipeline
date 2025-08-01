@@ -1,0 +1,31 @@
+# Telegram scraping
+telethon
+
+# PostgreSQL connection
+psycopg2-binary
+
+# Data processing
+pandas
+
+# dbt
+dbt-core
+dbt-postgres
+
+# FastAPI
+fastapi
+uvicorn
+
+# Object detection (YOLO)
+ultralytics
+
+# Environment variable management
+python-dotenv
+
+# Orchestration
+dagster
+dagster-webserver
+
+# Optional
+sqlalchemy
+pydantic
+
